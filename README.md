@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a fullstack MERN developer with a passion for 
 - 📍 From Jujuy, Argentina
 - 💼 Looking for any job experience
 - 🌱 Currently diving deep into databases and AWS
+- 🏁 My goal is to master the MERN stack!
 
 ## Skills
 
