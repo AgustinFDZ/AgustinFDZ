@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm a fullstack MERN developer with a passion for 
 ## Contact Me
 
 - 📧 Email: agusfer0525@gmail.com
-- 💼 Linkedin: <a href='www.linkedin.com/in/leonel-agustin-fernandez'>Click here!</a>
+- 💼 Linkedin: <a href='https://www.linkedin.com/in/leonel-agustin-fernandez'>Click here!</a>
 
 Feel free to explore my repositories, and contact me if you have any feedback or offer!
